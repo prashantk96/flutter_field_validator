@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_form_validator/flutter_form_validator.dart';
+import 'package:form_validator_flutter/form_validator_flutter.dart';
 
 void main() {
   runApp(const MyApp());

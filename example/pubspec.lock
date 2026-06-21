@@ -22,7 +22,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_form_validator:
+  form_validator_flutter:
     dependency: "direct main"
     description:
       path: ".."

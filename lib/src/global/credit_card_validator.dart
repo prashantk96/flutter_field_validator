@@ -1,4 +1,4 @@
-import 'package:flutter_form_validator/src/core/validation_messages.dart';
+import 'package:form_validator_flutter/src/core/validation_messages.dart';
 
 class CreditCardValidator {
   /// Validates credit/debit card number using Luhn algorithm.

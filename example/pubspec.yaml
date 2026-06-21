@@ -1,4 +1,4 @@
-name: flutter_form_validator_example
+name: form_validator_flutter_example
 
 publish_to: none
 
@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_form_validator:
+  form_validator_flutter:
     path: ../
 
 flutter:
